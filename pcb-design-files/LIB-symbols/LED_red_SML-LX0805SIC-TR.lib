@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SML-LX0805SIC-TR
+#/278901/1070656/2.50/2/4/LED
+DEF SML-LX0805SIC-TR LED 0 30 Y Y 1 F N
+F0 "LED" 500 350 50 H V L BNN
+F1 "SML-LX0805SIC-TR" 500 250 50 H V L BNN
+F2 "LEDC2012X120N" 500 150 50 H I L BNN
+F3 "https://www.mouser.co.uk/datasheet/2/244/SML-LX0805SRC-TR-1136150.pdf" 500 50 50 H I L BNN
+F4 "2.6 V Red LED 2012 (0805)  SMD, Lumex SML-LX0805SIC-TR" 500 -50 50 H I L BNN "Description"
+F5 "1.2" 500 -150 50 H I L BNN "Height"
+F6 "Lumex" 500 -250 50 H I L BNN "Manufacturer_Name"
+F7 "SML-LX0805SIC-TR" 500 -350 50 H I L BNN "Manufacturer_Part_Number"
+F8 "696-SML-LX0805SIC" 500 -450 50 H I L BNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Lumex/SML-LX0805SIC-TR?qs=FRql%252BDzkNqzjI3%252BnxJ8ukQ%3D%3D" 500 -550 50 H I L BNN "Mouser Price/Stock"
+F10 "SML-LX0805SIC-TR" 500 -650 50 H I L BNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/sml-lx0805sic-tr/lumex?region=nac" 500 -750 50 H I L BNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 600 0 100 L 50 50 0 0 P
+P 2 0 1 6 200 100 200 -100 N
+P 2 0 1 6 250 100 150 200 N
+P 2 0 1 6 350 100 250 200 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 400 0 500 0 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+P 4 0 1 10 210 170 180 140 150 200 210 170 F
+P 4 0 1 10 310 170 280 140 250 200 310 170 F
+ENDDRAW
+ENDDEF
+#
+#End Library

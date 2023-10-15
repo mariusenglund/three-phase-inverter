@@ -1,0 +1,218 @@
+52032041494924
+SVPWM-LIB-footprints
+ACPL-SOIC127P1150X331-8N
+Stretched S08
+Integrated Circuit
+0
+8
+8
+SVPWM-LIB-footprints
+B3F-4055
+B3F-4055
+Switch
+0
+4
+4
+SVPWM-LIB-footprints
+DC-DC-NTE0505MC
+NTE0505MC-1
+Power Supply
+0
+8
+8
+SVPWM-LIB-footprints
+DC-link-capacitor-B32776G0146K000
+B32776G0146K000-1
+Capacitor
+0
+4
+4
+SVPWM-LIB-footprints
+Diode-SMBJ50CA
+SMB
+Diode
+0
+2
+2
+SVPWM-LIB-footprints
+Display_MC21605C6WSPTLYIV2
+MC21605C6W-SPTLYI-V2-1
+Display
+0
+20
+20
+SVPWM-LIB-footprints
+Encoder_EC12E2424407
+EC12E2424407-2
+Relay or Contactor
+0
+7
+7
+SVPWM-LIB-footprints
+GateDriver-2ED020I12F2XUMA1
+2ED020I12F2XUMA1-3
+Integrated Circuit
+0
+32
+32
+SVPWM-LIB-footprints
+GateDriver-IR2118SPBF -SOIC127P600X175-8N
+8 Lead SOIC HEIGHT 1.75
+Integrated Circuit
+0
+8
+8
+SVPWM-LIB-footprints
+GateDriver-PG-DSO-36-58
+PG-DSO-36-58
+Integrated Circuit
+0
+32
+32
+SVPWM-LIB-footprints
+Gatedriver-1ED020I12FA2XUMA2
+
+
+0
+20
+20
+SVPWM-LIB-footprints
+Heatsink_C2470753AE
+C247-075-3AE-3
+Hardware
+0
+2
+2
+SVPWM-LIB-footprints
+Heatsink_brake_C2470251VE
+TO-247
+Hardware
+0
+2
+2
+SVPWM-LIB-footprints
+IGBT-TO544P521X1592X2557-3P
+PG-TO 247
+Transistor IGBT
+0
+3
+3
+SVPWM-LIB-footprints
+Keystone-5019
+
+
+0
+1
+1
+SVPWM-LIB-footprints
+LED_green
+tape/Reel
+LED
+0
+2
+2
+SVPWM-LIB-footprints
+LED_red
+SML-LX0805SIC-TR
+LED
+0
+2
+2
+SVPWM-LIB-footprints
+LED_yellow
+SML-LX0805SYC-TR-2
+LED
+0
+2
+2
+SVPWM-LIB-footprints
+LMV331M5_SOT95P280X145-5N
+DBV0005A
+Integrated Circuit
+0
+5
+5
+SVPWM-LIB-footprints
+MCP23017T-ESS-SOP65P780X200-28N
+28-Lead Plastic Shrink Small Outline (SS) – 5.30 mm Body [SSOP]-
+Integrated Circuit
+0
+28
+28
+SVPWM-LIB-footprints
+Multicomp-MPK7803T500R3
+MP-K7803T-500R3-2
+Power Supply
+0
+8
+8
+SVPWM-LIB-footprints
+OPA237-SOT95P280X145-5N
+SOT-23-
+Integrated Circuit
+0
+5
+5
+SVPWM-LIB-footprints
+PCB-receptable Nucleo-L476RG
+
+
+0
+76
+76
+SVPWM-LIB-footprints
+Potmeter_3386F1203TLF
+3386F-1-203TLF-1
+Variable Resistor
+0
+3
+3
+SVPWM-LIB-footprints
+SOP65P1420X360-37N
+
+
+0
+39
+39
+SVPWM-LIB-footprints
+Schottky-BAT165AX
+BAT165AX
+Schottky Diode
+0
+2
+2
+SVPWM-LIB-footprints
+TLI4971A050T5UE0001XUMA1
+PG-TISON-8_2021
+Integrated Circuit
+0
+14
+14
+SVPWM-LIB-footprints
+TLS205B0EJV33XUMA1-SOIC127P600X170-9N
+TLS205B0EJV50XUMA1
+Integrated Circuit
+0
+9
+9
+SVPWM-LIB-footprints
+UCC27321DR_SOIC127P600X175-8N
+D0008A
+Integrated Circuit
+0
+8
+8
+SVPWM-LIB-footprints
+WAGO-26043104
+2604-3104-2
+Connector
+0
+8
+8
+SVPWM-LIB-footprints
+nexperia-SOT95P275X110-5N
+SOT-753
+Integrated Circuit
+0
+5
+5

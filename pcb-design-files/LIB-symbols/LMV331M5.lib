@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LMV331M5
+#/13283385/1070656/2.50/5/3/Integrated Circuit
+DEF LMV331M5 IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "LMV331M5" 1050 200 50 H V L CNN
+F2 "SOT95P280X145-5N" 1050 100 50 H I L CNN
+F3 "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flmv331-n" 1050 0 50 H I L CNN
+F4 "Single comparator,LMV331M5 SOT23-5" 1050 -100 50 H I L CNN "Description"
+F5 "1.45" 1050 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "LMV331M5" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "926-LMV331M5" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMV331M5?qs=7lkVKPoqpbaykCAbqlqH9A%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "LMV331M5" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/lmv331m5/texas-instruments?region=nac" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X +IN 1 0 0 200 R 50 50 0 0 P
+X V- 2 0 -100 200 R 50 50 0 0 P
+X -IN 3 0 -200 200 R 50 50 0 0 P
+X OUTPUT 4 1200 0 200 L 50 50 0 0 P
+X V+ 5 1200 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

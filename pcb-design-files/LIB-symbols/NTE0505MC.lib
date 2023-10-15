@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NTE0505MC
+#/790473/1070656/2.49/8/3/Power Supply
+DEF NTE0505MC PS 0 30 Y Y 1 F N
+F0 "PS" 1050 300 50 H V L CNN
+F1 "NTE0505MC" 1050 200 50 H V L CNN
+F2 "NTE0505MC" 1050 100 50 H I L CNN
+F3 "https://www.murata.com/products/productdata/8807031767070/kdc-nte.pdf" 1050 0 50 H I L CNN
+F4 "Isolated DC/DC Converters - SMD 1W  5-5V SINGLE 1KV DC/DC" 1050 -100 50 H I L CNN "Description"
+F5 "6.85" 1050 -200 50 H I L CNN "Height"
+F6 "Murata Electronics" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "NTE0505MC" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "580-NTE0505MC" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/NTE0505MC?qs=hpFtdoQG8nowFKmU%2FgNflA%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "NTE0505MC" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/nte0505mc/murata-power-solutions?region=europe" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X -VIN 1 0 0 200 R 50 50 0 0 P
+X +VIN_ 3 0 -100 200 R 50 50 0 0 P
+X NA_1 5 0 -200 200 R 50 50 0 0 P
+X -VOUT 7 0 -300 200 R 50 50 0 0 P
+X +VOUT 8 1200 -300 200 L 50 50 0 0 P
+X NA_2 10 1200 -200 200 L 50 50 0 0 P
+X NA_3 12 1200 -100 200 L 50 50 0 0 P
+X NA_4 14 1200 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
