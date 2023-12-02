@@ -1,9 +1,7 @@
 # 3-phase DC/AC converter with SV-PWM
 This repository holds materials of our bachelor's thesis carried out at the Western Norway University of Applied Sciences (HVL), Department of Computer Science, Electrical Engineering and Mathematical Sciences in the spring of 2023.
 
-<!--The thesis can be found at [HVL Open](https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/92930?locale-attribute=en).-->
-
-The thesis is accessible through [HVL Open](https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/92930?locale-attribute=en) during the fall of 2023.
+The thesis can be found at [HVL Open](https://hdl.handle.net/11250/3105460).
 
 > We hope that this report will serve as a valuable resource for those who are interested in the field, and we encourage further development of the provided resources.
 
